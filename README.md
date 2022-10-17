@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam1813
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning c language  and Java 
+- 👀 I’m interested in full stack  web development 
+- 🌱 I’m currently learning web development language ,and backend development and Java 
 
 
 
