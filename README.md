@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivam yadav</h1>
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1813&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1813" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam1813" alt="shivam1813" /></a> </p>
